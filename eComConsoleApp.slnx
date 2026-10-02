@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="eComConsoleApp.Tests/eComConsoleApp.Tests.csproj" />
+  <Project Path="eComConsoleApp/eComConsoleApp.csproj" />
+</Solution>
